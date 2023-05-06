@@ -7,7 +7,7 @@ function showRandomCitation(citations) {
 
     imageContainer.innerHTML = ""; // Clear previous content
     citationContentContainer.innerHTML = ""; // Clear previous content
-
+    
     let imageAuthor = document.createElement("img");
     imageAuthor.src = randomCitation.image;
     imageAuthor.alt = randomCitation.auteur;

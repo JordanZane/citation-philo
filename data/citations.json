@@ -1,12 +1,38 @@
 [
     {
         "auteur" : "Socrates",
-        "content" : "\"Lorem ipsum dolores Lorem ipsum dolores\"",
+        "content" : "\"Je sais que je ne sais rien\"",
         "image" : "images/auteurs/socrates.png"
     },
     {
+        "auteur" : "Albert Einstein",
+        "content" : "\"La folie, c'est de faire toujours la même chose et de s'attendre à un résultat différent !\"",
+        "image" : "images/auteurs/einstein.png"
+    },
+    {
         "auteur" : "Platon",
-        "content" : "\"Lorem ipsum dolores Lorem ipsum dolores\"",
+        "content" : "\"La victoire sur soi est la plus grande des victoires\"",
         "image" : "images/auteurs/platon.png"
+    },
+    {
+        "auteur" : "Albert Einstein",
+        "content" : "\"Le culte de la personnalité reste à mes yeux toujours injustifié\"",
+        "image" : "images/auteurs/einstein.png"
+    },
+    {
+        "auteur" : "Albert Einstein",
+        "content" : "\"Le plus beau sentiment du monde, c’est le sens du mystère. Celui qui n’a jamais connu cette émotion, ses yeux sont fermés\"",
+        "image" : "images/auteurs/einstein.png"
+    },
+    {
+        "auteur" : "Aristote",
+        "content" : "\"Le courage est le juste milieu entre la peur et l’audace\"",
+        "image" : "images/auteurs/aristote.png"
+    },
+    {
+        "auteur" : "Aristote",
+        "content" : "\"L'ignorant affirme, le savant doute, le sage réfléchit.\"",
+        "image" : "images/auteurs/aristote.png"
     }
 ]
+

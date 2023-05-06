@@ -1,0 +1,16 @@
+@charset 'utf-8';
+
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'base/typography';
+@import 'base/animation';
+
+@import 'layout/header';
+@import 'layout/footer';
+
+@import 'components/standard';
+
+@import 'pages/home';  
+@import 'pages/globalstyle';
+@import 'pages/contact';

@@ -1,0 +1,12 @@
+[
+    {
+        "auteur" : "Socrates",
+        "content" : "\"Lorem ipsum dolores Lorem ipsum dolores\"",
+        "image" : "images/auteurs/socrates.png"
+    },
+    {
+        "auteur" : "Platon",
+        "content" : "\"Lorem ipsum dolores Lorem ipsum dolores\"",
+        "image" : "images/auteurs/platon.png"
+    }
+]

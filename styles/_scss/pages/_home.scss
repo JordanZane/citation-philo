@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+    background-image: url(/images/bg-header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    #citations-container {
+        background: $color-white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        #img-auteur-container{
+            text-align: center;
+        }
+        #citation-content{
+            text-align: center;
+            p{
+                font-size: 17px;
+            }
+        }
+    }
+    #button-random-container {
+        position: absolute;
+        right: -35px;
+        top: 50%;
+        transform: translate(0px, -50%);
+        button{
+            color: #fff;
+            background: none;
+            border: none;
+            font-size: 36px;
+        }
+    }
+}

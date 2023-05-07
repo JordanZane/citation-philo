@@ -24,7 +24,7 @@
                     </div>
                     <div id="button-random-container">
                     <button>
-                        <i class="fa-sharp fa-solid fa-arrow-right"></i>                    
+                        <i title="Suivant" class="fa-sharp fa-solid fa-arrow-right"></i>                    
                     </button>
                 </div>
                 </div>

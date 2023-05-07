@@ -31,8 +31,36 @@
     },
     {
         "auteur" : "Aristote",
-        "content" : "\"L'ignorant affirme, le savant doute, le sage réfléchit.\"",
+        "content" : "\"L'ignorant affirme, le savant doute, le sage réfléchit\"",
         "image" : "images/auteurs/aristote.png"
+    },
+    {
+        "auteur" : "Nietzsche",
+        "content" : "\"Deviens ce que tu es\"",
+        "image" : "images/auteurs/nietzsche.png"
+    },
+    {
+        "auteur" : "Kant",
+        "content" : "\"Pense par toi-même\"",
+        "image" : "images/auteurs/kant.png"
+    },
+    {
+        "auteur" : "Locke",
+        "content" : "\"La connaissance de l'homme ne peut pas s'étendre au-delà de son expérience propre\"",
+        "image" : "images/auteurs/locke.png"
+    },
+    {
+        "auteur" : "Hegel",
+        "content" : "\"Rien de grand ne s'est fait dans le monde sans passion\"",
+        "image" : "images/auteurs/hegel.png"
+    },
+    {
+        "auteur" : "Epictète",
+        "content" : "\"N’attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive et tu seras heureux\"",
+        "image" : "images/auteurs/epictete.png"
     }
 ]
 
+
+
+ 

@@ -11,12 +11,15 @@ function showRandomCitation(citations) {
     let imageAuthor = document.createElement("img");
     imageAuthor.src = randomCitation.image;
     imageAuthor.alt = randomCitation.auteur;
+    imageAuthor.classList.add("active");
 
     let nameAuthor = document.createElement("h2");
     nameAuthor.innerText = randomCitation.auteur;
+    nameAuthor.classList.add("active");
 
     let citationContent = document.createElement("p");
     citationContent.innerText = randomCitation.content;
+    citationContent.classList.add("active");
 
     imageContainer.appendChild(imageAuthor);
     imageContainer.appendChild(nameAuthor);

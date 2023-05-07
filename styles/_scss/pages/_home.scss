@@ -34,6 +34,12 @@ body{
         right: -35px;
         top: 50%;
         transform: translate(0px, -50%);
+        @include respond-to("small"){
+            position: relative;
+            left: 10px;
+            top: unset;
+            transform: unset;
+        }
         button{
             color: #fff;
             background: none;

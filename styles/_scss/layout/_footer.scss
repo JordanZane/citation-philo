@@ -5,5 +5,9 @@ footer{
   transform: translate(-50%, 0);
   p{
     color: $color-white;
+    
+  }
+  p a {
+    color: $color-white;
   }
 }
